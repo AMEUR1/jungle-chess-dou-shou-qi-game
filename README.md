@@ -8,8 +8,8 @@
 
 ## Enhacement in the next vesrion
 
-#### Add the missing rule (game rule)
-#### turn to graphic interface (using Swing ) 
++ Add the missing rule (game rule)
++ Update to graphic interface (using Swing ) 
 
 ## Thank you
 
