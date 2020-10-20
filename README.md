@@ -1,12 +1,16 @@
 # jungle-chess-dou-shou-qi-game
  
-### Dou-Shou-Qi game created by java
+#### Dou-Shou-Qi game created by java
 
 # Requirements 
 
-### Java version 8 or higher.
+#### Java version 8 or higher.
 
-# Enhacement 
+# Enhacement in the next vesrion
 
-### Add the missing rule (game rule)
-### turn to graphic interface (using Swing ) 
+#### Add the missing rule (game rule)
+#### turn to graphic interface (using Swing ) 
+
+# Thank you
+
+
