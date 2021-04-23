@@ -1,6 +1,6 @@
 ## jungle-chess-dou-shou-qi-game
  
-#### Dou-Shou-Qi game created by java
+#### Dou-Shou-Qi game created using java
 
 ## Requirements 
 
